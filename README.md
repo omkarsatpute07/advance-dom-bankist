@@ -1,1 +1,1 @@
-#(only smooth scrolling) advance-dom-bankist
+#in this project only work on  smooth scrolling functionality.

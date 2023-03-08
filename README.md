@@ -1,1 +1,1 @@
-# advance-dom-bankist
+#(only smooth scrolling) advance-dom-bankist
